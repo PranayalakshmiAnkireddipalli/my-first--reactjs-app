@@ -1,7 +1,7 @@
 
 
 import React,{Component} from "react";
-import '../Styles/Funvslass.css';
+import '../Styles/FunVsClass.css';
 
 export default class ClassComponent extends Component
 {

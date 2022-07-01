@@ -13,9 +13,9 @@ function App() {
       <Home/>
       <Health/>
       <ClassComponent/>
-      <EmpDetails name="pranay" role="Software Developer"/>
-      <EmpDetails name="laksmi" role="Software Tester"/>
-      <EmpDetails name="subbu" role="Software Designer"/>
+      <EmpDetails name="pranay" role="cooking"/>
+      <EmpDetails name="laksmi" role="driving"/>
+      <EmpDetails name="subbu" role="planing"/>
     </div>
     
   );
